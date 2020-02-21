@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: shinde.co *folio
+email: &#104;&#115;&#104;&#105;&#110;&#100;&#101;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#99;&#111;&#109;
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Harshal Shinde | Architect, Interior Designer & Furniture-maker at URBAN ARTS | Architecture, Interior & Furniture Design, Urban Design & Conservation
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: harshalshinde
+github_username:  hpshinde
 
 # Build settings
 markdown: kramdown
@@ -22,8 +22,11 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
+  words:
     output: true
     permalink: /poetry/:path/
+  images:
+    output: true
+    permalink: /photos/:path/
 
 

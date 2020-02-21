@@ -25,6 +25,6 @@ His other interests are photography, travel, writing & painting.
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	eMail is the best way to reach me.
 </div>
 
